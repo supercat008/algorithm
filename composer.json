@@ -1,0 +1,15 @@
+{
+    "name": "fun/algorithm",
+    "description": "just for fun",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fun\\Algorithm\\": "src"
+        }
+    }
+}
